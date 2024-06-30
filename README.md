@@ -1,26 +1,11 @@
 👋 Hi!
-<h1 align = "center"I’m Chamodi Imasha</h1>
-
-- Welcome to my GitHub profile! I'm an aspiring **Software Engineer** currently studying at SLIIT University. I have a passion for coding, problem-solving, and continuous learning.
-- 
-- 👀 I’m interested in
--       Web Development: Crafting responsive and dynamic websites.
--       Mobile App Development: Building user-friendly and efficient mobile applications.
--       Artificial Intelligence & Machine Learning: Exploring the world of intelligent systems.
--       Open Source: Contributing to and collaborating on open-source projects.
--   
-- 🌱 I’m currently learning
--       JavaScript & React: Enhancing my skills in front-end development.
--       Python & Django: Diving into back-end development and web frameworks.
--       Data Structures & Algorithms: Strengthening my problem-solving abilities.
--   
-- 💞️ I’m looking to collaborate on
--       Exciting **web development** projects.
--       Innovative **mobile app development** ideas.
--       Engaging **open-source** initiatives.
-
-- 📫 How to reach me
--       Email: chamodiimasha0212@gmail.com
+<h1 align = "center">I’m Chamodi Imasha</h1>
+<h3 align = "center">A passionate developer from Sri Lanka</h3>
+ 
+- 👀 I’m interested in Web Development, Mobile App Development, Artificial Intelligence & Machine Learning
+- 🌱 I’m currently an undergraduate at**SLIIT**
+- 💞️ I’m looking to collaborate on exciting web development projects, novative mobile app development ideas, gaging open-source initiatives
+- 📫 Reach me chamodiimasha0212@gmail.com
 -       LinkedIn: [Chamodi Imasha](https://www.linkedin.com/in/chamodi-imasha-233578292)
 - 😄 Pronouns: ...
 - 
