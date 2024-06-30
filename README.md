@@ -1,5 +1,5 @@
 👋 Hi!
-<h1 align + "center"I’m Chamodi Imasha</h1>
+<h1 align = "center"I’m Chamodi Imasha</h1>
 
 - Welcome to my GitHub profile! I'm an aspiring **Software Engineer** currently studying at SLIIT University. I have a passion for coding, problem-solving, and continuous learning.
 - 
