@@ -7,11 +7,6 @@
 - 💞️ I’m looking to collaborate on exciting web development projects, novative mobile app development ideas, gaging open-source initiatives
 - 📫 Reach me chamodiimasha0212@gmail.com
 
-<h3 aling = "left">Follow me on</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/dinidi-gallage-963a29239?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
