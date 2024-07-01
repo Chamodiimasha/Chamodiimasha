@@ -1,9 +1,9 @@
 👋 Hi!
 <h1 align = "center">I’m Chamodi Imasha</h1>
-<h3 align = "center">A passionate developer from Sri Lanka</h3>
+<h3 align = "center">A passionate software developer from Sri Lanka</h3>
  
 - 👀 I’m interested in Web Development, Mobile App Development, Artificial Intelligence & Machine Learning
-- 🌱 I’m currently an undergraduate at**SLIIT**
+- 🌱 I’m currently an undergraduate at **SLIIT**
 - 💞️ I’m looking to collaborate on exciting web development projects, novative mobile app development ideas, gaging open-source initiatives
 - 📫 Reach me chamodiimasha0212@gmail.com
 
