@@ -1,5 +1,5 @@
 👋 Hi!
-<h1 align = "center">I’m Chamodi Imasha</h1>
+<h1 align = "center">I’m Chamodi    Imasha</h1>
 <h3 align = "center">A passionate software developer from Sri Lanka</h3>
  
 - 👀 I’m interested in Web Development, Mobile App Development, Artificial Intelligence & Machine Learning
